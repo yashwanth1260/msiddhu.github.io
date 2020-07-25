@@ -1,1 +1,1 @@
-msiddhu.github.io
+https://blog.msiddhu.me/
